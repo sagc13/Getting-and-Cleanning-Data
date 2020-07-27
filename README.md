@@ -1,4 +1,4 @@
-# Getting and Cleanning Data
+# Getting and Cleanning Data 
 Getting and Cleaning Data Course Project 
 
 1. run_analysis.R
