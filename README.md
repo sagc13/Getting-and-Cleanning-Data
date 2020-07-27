@@ -6,7 +6,7 @@ Getting and Cleaning Data Course Project
 - The Dataset is downloaded and unziped from link provided
 - Train data is read for Features, Activities and Subject
 - Test data is read for Features, Activities and Subject
-- A Dataset is formed by merginc Features, Activities and Subjects 
+- A Dataset is formed by merging Features, Activities and Subjects 
 - Merging everything in one Data set
 - Extracting only the measurements on the mean and standard deviation for each measurement.
 - Appropriately labels the data set with descriptive variable names
