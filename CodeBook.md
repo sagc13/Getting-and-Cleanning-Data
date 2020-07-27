@@ -1,6 +1,6 @@
-#Getting and Cleanning Data 
+## Code Book 
 
-## Code Book to describe variables, data, and  transformations to clean up the data 
+To describe variables, data, and  transformations to clean up the data 
 
 1. Download file
 - "fileZip" - Variable. Used to set the link to download dataset from link provided
